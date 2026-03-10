@@ -1,0 +1,69 @@
+{
+  "slug": "uganda-2019",
+  "title": "Uganda 2019",
+  "subtitle": "Semillas de autosustentabilidad",
+  "year": 2019,
+  "location": "Comunidad de Rakai, Uganda",
+  "date": "Abril - Mayo 2019",
+  "featured": true,
+  "summary": "Un proyecto integral de agricultura sostenible que transformó la economía local. Capacitamos a 50 familias en técnicas agrícolas modernas y establecimos un huerto comunitario.",
+  "description": "El viaje de 2019 fue especial porque nos enfocamos en crear bases sólidas para la autosustentabilidad de la comunidad de Rakai. Entendimos que la educación y la salud van de la mano con la seguridad alimentaria, así que diseñamos un proyecto integral de agricultura sostenible.\n\nDurante seis semanas, trabajamos junto a 50 familias de la comunidad, capacitándolas en técnicas de agricultura orgánica, rotación de cultivos, y manejo integrado de plagas. Establecimos un huerto comunitario de dos hectáreas que sirve como centro de aprendizaje y fuente de alimentos.\n\nEl proyecto incluyó la construcción de un sistema de riego por goteo alimentado por energía solar, lo que permite mantener la producción durante la estación seca. También establecimos un banco de semillas comunitario para preservar variedades locales y garantizar la disponibilidad de semillas de calidad.\n\nHoy, la comunidad de Rakai no solo produce suficientes alimentos para su consumo, sino que también vende excedentes en el mercado local, generando ingresos que se reinvierten en educación y salud.",
+  "coverImage": "/projects/uganda-2019/cover.jpg",
+  "gallery": [
+    {
+      "src": "/projects/uganda-2019/gallery-1.jpg",
+      "alt": "Taller de agricultura",
+      "caption": "Capacitación en técnicas de agricultura orgánica"
+    },
+    {
+      "src": "/projects/uganda-2019/gallery-2.jpg",
+      "alt": "Huerto comunitario",
+      "caption": "Vista del huerto comunitario en plena producción"
+    },
+    {
+      "src": "/projects/uganda-2019/gallery-3.jpg",
+      "alt": "Sistema de riego",
+      "caption": "Instalación del sistema de riego solar"
+    },
+    {
+      "src": "/projects/uganda-2019/gallery-4.jpg",
+      "alt": "Familias trabajando",
+      "caption": "Las familias de Rakai trabajando juntas en el huerto"
+    },
+    {
+      "src": "/projects/uganda-2019/gallery-5.jpg",
+      "alt": "Cosecha",
+      "caption": "Primera cosecha del proyecto"
+    },
+    {
+      "src": "/projects/uganda-2019/gallery-6.jpg",
+      "alt": "Banco de semillas",
+      "caption": "Establecimiento del banco de semillas comunitario"
+    }
+  ],
+  "videos": [
+    {
+      "src": "/projects/uganda-2019/video-cosecha.mp4",
+      "title": "La primera cosecha de Rakai",
+      "thumbnail": "/projects/uganda-2019/video-thumb.jpg"
+    }
+  ],
+  "impact": {
+    "beneficiaries": 250,
+    "volunteers": 10,
+    "families_trained": 50,
+    "hectares": 2
+  },
+  "testimonials": [
+    {
+      "quote": "Gracias a este proyecto, mis hijos ya no pasan hambre. Ahora tenemos comida todo el año y podemos vender lo que sobra.",
+      "author": "Joseph Ssemakula",
+      "role": "Agricultor, Rakai"
+    },
+    {
+      "quote": "Ver cómo una comunidad entera se transforma a través del trabajo colectivo es la mayor recompensa que existe.",
+      "author": "Luis Castillo",
+      "role": "Fundador, Africa With Love"
+    }
+  ]
+}

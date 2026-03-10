@@ -1,0 +1,44 @@
+{
+  "name": "Africa With Love",
+  "tagline": "12 años caminando junto a comunidades de Uganda y alrededores",
+  "description": "Construyendo escuelas, fortaleciendo pueblos y sembrando autosustentabilidad.",
+  "founder": {
+    "name": "Luis Castillo",
+    "role": "Fundador",
+    "bio": "Durante más de una década, Luis Castillo ha viajado con un propósito simple y profundo: amar sirviendo. A través de escuelas, apoyo comunitario y proyectos de desarrollo, Africa With Love busca acompañar a las comunidades con dignidad, constancia y compromiso real.",
+    "fullBio": "Luis Castillo es un soñador con los pies en la tierra. Hace 12 años, durante un viaje que cambiaría su vida para siempre, conoció las comunidades rurales de Uganda y entendió que su misión estaba ahí: construir puentes de amor entre culturas, levantar escuelas donde no las había, y caminar junto a pueblos enteros hacia la autosustentabilidad.\n\nDesde entonces, ha viajado año tras año, a veces solo, a veces acompañado de voluntarios que comparten su visión. Cada viaje es una oportunidad de aprender, servir y crecer junto a las comunidades que lo han acogido como familia.\n\nAfrica With Love no es solo un proyecto: es una forma de vida. Es creer que cada pequeño acto de amor puede transformar realidades. Es entender que dar también es recibir. Es saber que, cuando caminas junto a otros, el camino siempre se hace más corto.",
+    "image": "/images/luis-castillo.jpg"
+  },
+  "impact": {
+    "years": 12,
+    "communities": 15,
+    "schools": 5,
+    "trips": 18,
+    "volunteers": 200,
+    "children": 2500
+  },
+  "donation": {
+    "bankName": "Banco de Chile",
+    "accountHolder": "Fundación Africa With Love",
+    "accountNumber": "00-123-45678-90",
+    "accountType": "Cuenta Corriente",
+    "rut": "65.123.456-7",
+    "email": "donaciones@africawithlove.org",
+    "paypal": "donaciones@africawithlove.org",
+    "message": "Tu aporte ayuda a sostener proyectos reales, acompañar comunidades y seguir abriendo oportunidades donde más se necesitan. Cada donación, sin importar el monto, hace la diferencia."
+  },
+  "contact": {
+    "email": "contacto@africawithlove.org",
+    "phone": "+56 9 1234 5678",
+    "whatsapp": "+56912345678",
+    "address": "Santiago, Chile",
+    "instagram": "https://instagram.com/africawithlove",
+    "facebook": "https://facebook.com/africawithlove",
+    "youtube": "https://youtube.com/@africawithlove"
+  },
+  "seo": {
+    "title": "Africa With Love | Construyendo esperanza en Uganda",
+    "description": "Durante 12 años, Africa With Love ha caminado junto a comunidades de Uganda, construyendo escuelas y sembrando autosustentabilidad. Únete a nuestra misión de amor.",
+    "keywords": ["ONG", "Uganda", "Africa", "voluntariado", "escuelas", "comunidades", "autosustentabilidad", "Luis Castillo"]
+  }
+}

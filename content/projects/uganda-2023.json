@@ -1,0 +1,69 @@
+{
+  "slug": "uganda-2023",
+  "title": "Uganda 2023",
+  "subtitle": "Construyendo el futuro, un aula a la vez",
+  "year": 2023,
+  "location": "Distrito de Masaka, Uganda",
+  "date": "Marzo - Abril 2023",
+  "featured": true,
+  "summary": "En nuestro viaje más reciente, completamos la construcción de dos nuevas aulas en la escuela primaria de Kyotera, beneficiando a más de 200 niños de la comunidad.",
+  "description": "El viaje de 2023 marcó un hito importante para Africa With Love. Durante seis semanas de trabajo intenso, junto a un equipo de 12 voluntarios internacionales, logramos completar la construcción de dos nuevas aulas en la Escuela Primaria de Kyotera.\n\nEl proyecto no solo incluyó la construcción física, sino también la instalación de mobiliario escolar, materiales didácticos y un sistema de captación de agua de lluvia que beneficia a toda la comunidad.\n\nLo más memorable de este viaje fue ver cómo la comunidad entera se involucró en el proyecto. Padres, maestros y hasta los mismos estudiantes participaron en diferentes etapas de la construcción, creando un verdadero sentido de pertenencia y orgullo.\n\nAdemás de la infraestructura, implementamos talleres de capacitación para los maestros locales y sesiones de nutrición para las madres de la comunidad, fortaleciendo el ecosistema educativo de manera integral.",
+  "coverImage": "/projects/uganda-2023/cover.jpg",
+  "gallery": [
+    {
+      "src": "/projects/uganda-2023/gallery-1.jpg",
+      "alt": "Construcción de las nuevas aulas",
+      "caption": "Los voluntarios trabajando en los cimientos de las nuevas aulas"
+    },
+    {
+      "src": "/projects/uganda-2023/gallery-2.jpg",
+      "alt": "Niños de la escuela",
+      "caption": "Los estudiantes de Kyotera celebrando la inauguración"
+    },
+    {
+      "src": "/projects/uganda-2023/gallery-3.jpg",
+      "alt": "Equipo de voluntarios",
+      "caption": "Nuestro increíble equipo de voluntarios 2023"
+    },
+    {
+      "src": "/projects/uganda-2023/gallery-4.jpg",
+      "alt": "Sistema de agua",
+      "caption": "Instalación del sistema de captación de agua"
+    },
+    {
+      "src": "/projects/uganda-2023/gallery-5.jpg",
+      "alt": "Taller de capacitación",
+      "caption": "Taller de capacitación para maestros locales"
+    },
+    {
+      "src": "/projects/uganda-2023/gallery-6.jpg",
+      "alt": "Inauguración",
+      "caption": "Ceremonia de inauguración con la comunidad"
+    }
+  ],
+  "videos": [
+    {
+      "src": "/projects/uganda-2023/video-resumen.mp4",
+      "title": "Resumen del viaje Uganda 2023",
+      "thumbnail": "/projects/uganda-2023/video-thumb.jpg"
+    }
+  ],
+  "impact": {
+    "beneficiaries": 200,
+    "volunteers": 12,
+    "classrooms": 2,
+    "teachers_trained": 8
+  },
+  "testimonials": [
+    {
+      "quote": "Este proyecto ha transformado nuestra escuela. Ahora nuestros niños tienen un espacio digno para aprender y soñar.",
+      "author": "Sarah Nakimuli",
+      "role": "Directora de la Escuela Primaria Kyotera"
+    },
+    {
+      "quote": "Participar en este viaje cambió mi perspectiva de vida. El amor y la gratitud de la comunidad son invaluables.",
+      "author": "María González",
+      "role": "Voluntaria, Chile"
+    }
+  ]
+}

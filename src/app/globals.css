@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-sand: 233 216 180;
+    --color-terracotta: 184 107 75;
+    --color-forest: 63 91 75;
+    --color-ivory: 248 244 236;
+    --color-charcoal: 46 42 38;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-ivory-100 text-charcoal-800 font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-medium;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-6xl;
+  }
+
+  h2 {
+    @apply text-3xl md:text-4xl lg:text-5xl;
+  }
+
+  h3 {
+    @apply text-2xl md:text-3xl;
+  }
+
+  h4 {
+    @apply text-xl md:text-2xl;
+  }
+
+  p {
+    @apply leading-relaxed;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply py-16 md:py-24 lg:py-32;
+  }
+
+  .container-padding {
+    @apply px-4 sm:px-6 lg:px-8;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-6 py-3
+           bg-terracotta-500 text-white font-sans font-medium
+           rounded-full transition-all duration-300
+           hover:bg-terracotta-600 hover:shadow-lg
+           focus:outline-none focus:ring-2 focus:ring-terracotta-400 focus:ring-offset-2;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3
+           bg-transparent border-2 border-white text-white font-sans font-medium
+           rounded-full transition-all duration-300
+           hover:bg-white hover:text-charcoal-800
+           focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center px-6 py-3
+           bg-transparent border-2 border-terracotta-500 text-terracotta-500 font-sans font-medium
+           rounded-full transition-all duration-300
+           hover:bg-terracotta-500 hover:text-white
+           focus:outline-none focus:ring-2 focus:ring-terracotta-400 focus:ring-offset-2;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-lg overflow-hidden
+           transition-all duration-300 hover:shadow-xl;
+  }
+
+  .gradient-overlay {
+    @apply absolute inset-0 bg-gradient-to-b from-black/30 via-black/20 to-black/60;
+  }
+
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .image-hover {
+    @apply transition-transform duration-500 ease-out;
+  }
+
+  .image-hover:hover {
+    @apply scale-105;
+  }
+}
+
+@layer utilities {
+  .animate-delay-100 {
+    animation-delay: 100ms;
+  }
+
+  .animate-delay-200 {
+    animation-delay: 200ms;
+  }
+
+  .animate-delay-300 {
+    animation-delay: 300ms;
+  }
+
+  .animate-delay-400 {
+    animation-delay: 400ms;
+  }
+
+  .animate-delay-500 {
+    animation-delay: 500ms;
+  }
+
+  .mask-gradient {
+    mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-sand-100;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-terracotta-400 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-terracotta-500;
+}
+
+/* Image loading placeholder */
+.img-loading {
+  @apply bg-sand-200 animate-pulse;
+}
+
+/* Focus visible for accessibility */
+:focus-visible {
+  @apply outline-none ring-2 ring-terracotta-500 ring-offset-2;
+}
+
+/* Selection color */
+::selection {
+  @apply bg-terracotta-200 text-charcoal-900;
+}

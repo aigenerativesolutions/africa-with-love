@@ -1,0 +1,53 @@
+{
+  "slug": "uganda-2022",
+  "title": "Uganda 2022",
+  "subtitle": "Agua limpia, vida nueva",
+  "year": 2022,
+  "location": "Aldea de Bukoto, Uganda",
+  "date": "Febrero - Marzo 2022",
+  "featured": true,
+  "summary": "Un proyecto centrado en el acceso al agua potable. Instalamos tres pozos de agua y capacitamos a la comunidad en su mantenimiento, beneficiando a más de 500 personas.",
+  "description": "El acceso al agua limpia es un derecho fundamental, y en 2022 nos propusimos hacer realidad este derecho para la aldea de Bukoto. Durante cinco semanas de trabajo, nuestro equipo de 8 voluntarios, junto con expertos locales en perforación, logró instalar tres pozos de agua potable.\n\nPero el proyecto fue más allá de la infraestructura. Entendemos que la sostenibilidad es clave, por lo que capacitamos a un comité local de agua compuesto por miembros de la comunidad, quienes ahora son responsables del mantenimiento y gestión de los pozos.\n\nEl impacto fue inmediato: las mujeres y niños que antes caminaban horas para conseguir agua ahora tienen acceso en su propia aldea. La reducción de enfermedades relacionadas con el agua contaminada ha sido notable, y los niños pueden dedicar más tiempo a sus estudios.\n\nAdicionalmente, implementamos talleres de higiene y saneamiento, creando conciencia sobre prácticas saludables que complementan el acceso al agua limpia.",
+  "coverImage": "/projects/uganda-2022/cover.jpg",
+  "gallery": [
+    {
+      "src": "/projects/uganda-2022/gallery-1.jpg",
+      "alt": "Perforación del pozo",
+      "caption": "Inicio de la perforación del primer pozo"
+    },
+    {
+      "src": "/projects/uganda-2022/gallery-2.jpg",
+      "alt": "Comunidad celebrando",
+      "caption": "La alegría de la comunidad al ver brotar el agua"
+    },
+    {
+      "src": "/projects/uganda-2022/gallery-3.jpg",
+      "alt": "Capacitación del comité",
+      "caption": "Capacitación del comité local de agua"
+    },
+    {
+      "src": "/projects/uganda-2022/gallery-4.jpg",
+      "alt": "Niños con agua",
+      "caption": "Los niños de Bukoto disfrutando del agua limpia"
+    },
+    {
+      "src": "/projects/uganda-2022/gallery-5.jpg",
+      "alt": "Taller de higiene",
+      "caption": "Taller de higiene y saneamiento"
+    }
+  ],
+  "videos": [],
+  "impact": {
+    "beneficiaries": 500,
+    "volunteers": 8,
+    "wells": 3,
+    "committee_trained": 12
+  },
+  "testimonials": [
+    {
+      "quote": "Antes caminábamos dos horas para conseguir agua. Ahora mis hijos pueden ir a la escuela en lugar de buscar agua.",
+      "author": "Grace Namugaya",
+      "role": "Madre de familia, Bukoto"
+    }
+  ]
+}
